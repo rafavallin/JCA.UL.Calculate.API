@@ -1,0 +1,9 @@
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Infrastructure/obj/Debug/netstandard2.0/JCA.UL.Pricing.Infrastructure.csprojAssemblyReference.cache
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Infrastructure/obj/Debug/netstandard2.0/JCA.UL.Pricing.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Infrastructure/obj/Debug/netstandard2.0/JCA.UL.Pricing.Infrastructure.AssemblyInfoInputs.cache
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Infrastructure/obj/Debug/netstandard2.0/JCA.UL.Pricing.Infrastructure.AssemblyInfo.cs
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Infrastructure/bin/Debug/netstandard2.0/JCA.UL.Pricing.Infrastructure.deps.json
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Infrastructure/bin/Debug/netstandard2.0/JCA.UL.Pricing.Infrastructure.dll
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Infrastructure/bin/Debug/netstandard2.0/JCA.UL.Pricing.Infrastructure.pdb
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Infrastructure/obj/Debug/netstandard2.0/JCA.UL.Pricing.Infrastructure.dll
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Infrastructure/obj/Debug/netstandard2.0/JCA.UL.Pricing.Infrastructure.pdb

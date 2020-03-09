@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Infrastructure/JCA.UL.Pricing.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Infrastructure/JCA.UL.Pricing.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Infrastructure/JCA.UL.Pricing.Infrastructure.csproj",
+        "projectName": "JCA.UL.Pricing.Infrastructure",
+        "projectPath": "/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Infrastructure/JCA.UL.Pricing.Infrastructure.csproj",
+        "packagesPath": "/Users/rvallin/.nuget/packages/",
+        "outputPath": "/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rvallin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MathParser.org-mXparser": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "mongodb.driver": {
+              "target": "Package",
+              "version": "[2.10.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

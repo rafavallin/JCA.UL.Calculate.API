@@ -1,0 +1,12 @@
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Repository/bin/Debug/netstandard2.0/JCA.UL.Pricing.Repository.deps.json
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Repository/bin/Debug/netstandard2.0/JCA.UL.Pricing.Repository.dll
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Repository/bin/Debug/netstandard2.0/JCA.UL.Pricing.Repository.pdb
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Repository/bin/Debug/netstandard2.0/JCA.UL.Pricing.Domain.dll
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Repository/bin/Debug/netstandard2.0/JCA.UL.Pricing.Domain.pdb
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Repository/obj/Debug/netstandard2.0/JCA.UL.Pricing.Repository.csprojAssemblyReference.cache
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Repository/obj/Debug/netstandard2.0/JCA.UL.Pricing.Repository.csproj.CoreCompileInputs.cache
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Repository/obj/Debug/netstandard2.0/JCA.UL.Pricing.Repository.AssemblyInfoInputs.cache
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Repository/obj/Debug/netstandard2.0/JCA.UL.Pricing.Repository.AssemblyInfo.cs
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Repository/obj/Debug/netstandard2.0/JCA.UL.Pricing.Repository.csproj.CopyComplete
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Repository/obj/Debug/netstandard2.0/JCA.UL.Pricing.Repository.dll
+/Users/rvallin/Documents/GitHub/JCA.UL/JCA.UL.Pricing.API/JCA.UL.Pricing.Repository/obj/Debug/netstandard2.0/JCA.UL.Pricing.Repository.pdb
