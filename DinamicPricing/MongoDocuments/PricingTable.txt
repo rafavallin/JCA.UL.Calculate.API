@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5e29e4289926af025613840b"},"Empresa":"Turismo","Name":"Pricing","Data":[{"BusStatus":"Parado","BusType":"Convencional","BusKMValue":"5.0","BusDiaryValue":"500"},{"BusStatus":"Parado","BusType":"DD","BusKMValue":"7.0","BusDiaryValue":"700"},{"BusStatus":"Disposição","BusType":"Convencional","BusKMValue":"8.0","BusDiaryValue":"800"}]}
