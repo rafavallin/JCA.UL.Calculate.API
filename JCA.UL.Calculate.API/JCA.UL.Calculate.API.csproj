@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RazorCompileOnPublish>false</RazorCompileOnPublish>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JCA.UL.Calculate.Domain\JCA.UL.Calculate.Domain.csproj" />
+    <ProjectReference Include="..\JCA.UL.Calculate.Business\JCA.UL.Calculate.Business.csproj" />
+    <ProjectReference Include="..\JCA.UL.Calculate.Repository\JCA.UL.Calculate.Repository.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MathParser.org-mXparser" Version="4.4.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.5" />
+    <PackageReference Include="mongodb.driver" Version="2.10.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.5" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+    <PackageReference Include="System.Json" Version="4.7.0" />
+  </ItemGroup>
+
+</Project>

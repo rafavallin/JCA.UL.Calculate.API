@@ -1,0 +1,136 @@
+{
+  "rotas": [
+      {
+          "creditoDisponivel": 1027,
+          "via": "Rodovia Presidente Dutra, Rodovia Presidente Dutra",
+          "distancia": 436.7,
+          "duracao": "5h43min",
+          "veiculo": "auto",
+          "eixos": "2",
+          "valorPedagio": 59.7,
+          "valorCombustivel": "Valor do combustível ou consumo não informado",
+          "tabelaFrete": "A tabela frete da ANTT está disponível somente para veículos do tipo: caminhao",
+          "pedagios": [
+              {
+                  "praca": "Arujá N/S",
+                  "concessionaria": "NOVADUTRA*",
+                  "rodovia": "BR-116",
+                  "km": "204,500",
+                  "valor": 3.7,
+                  "distanciaOrigem": 35.86
+              },
+              {
+                  "praca": "Guararema N/S",
+                  "concessionaria": "NOVADUTRA*",
+                  "rodovia": "BR-116",
+                  "km": "180,000",
+                  "valor": 3.7,
+                  "distanciaOrigem": 57.73
+              },
+              {
+                  "praca": "Jacareí",
+                  "concessionaria": "NOVADUTRA*",
+                  "rodovia": "BR-116",
+                  "km": "165,000",
+                  "valor": 6.7,
+                  "distanciaOrigem": 75.02
+              },
+              {
+                  "praca": "Moreira César",
+                  "concessionaria": "NOVADUTRA*",
+                  "rodovia": "BR-116",
+                  "km": "88,000",
+                  "valor": 15.2,
+                  "distanciaOrigem": 153.07
+              },
+              {
+                  "praca": "Itatiaia",
+                  "concessionaria": "NOVADUTRA*",
+                  "rodovia": "BR-116",
+                  "km": "318,000",
+                  "valor": 15.2,
+                  "distanciaOrigem": 254.71
+              },
+              {
+                  "praca": "Viúva Graça",
+                  "concessionaria": "NOVADUTRA*",
+                  "rodovia": "BR-116",
+                  "km": "207,000",
+                  "valor": 15.2,
+                  "distanciaOrigem": 367
+              }
+          ],
+          "link": "http://rotasbrasil.com.br/?alternative=0&return=falsept0=-46.6333824%C-23.5506507&ptStop0=true&pt1=-43.16312809505%C-22.7631956&ptStop1=true&&veiculo=1&eixo=2&precoCombustivel=&consumo="
+      },
+      {
+          "creditoDisponivel": 1027,
+          "via": "Rodovia Presidente Dutra, Rodovia Presidente Dutra",
+          "distancia": 446.79,
+          "duracao": "5h47min",
+          "veiculo": "auto",
+          "eixos": "2",
+          "valorPedagio": 60.4,
+          "valorCombustivel": "Valor do combustível ou consumo não informado",
+          "tabelaFrete": "A tabela frete da ANTT está disponível somente para veículos do tipo: caminhao",
+          "pedagios": [
+              {
+                  "praca": "Itaquaquecetuba - L/O",
+                  "concessionaria": "ECOPISTAS",
+                  "rodovia": "SP-070",
+                  "km": "32,900",
+                  "valor": 3.9,
+                  "distanciaOrigem": 35.45
+              },
+              {
+                  "praca": "Guararema - L/O",
+                  "concessionaria": "ECOPISTAS",
+                  "rodovia": "SP-070",
+                  "km": "57,800",
+                  "valor": 3.6,
+                  "distanciaOrigem": 60.39
+              },
+              {
+                  "praca": "São José dos Campos - L/O",
+                  "concessionaria": "ECOPISTAS",
+                  "rodovia": "SP-070",
+                  "km": "92,500",
+                  "valor": 3.6,
+                  "distanciaOrigem": 94.69
+              },
+              {
+                  "praca": "Caçapava - L/O",
+                  "concessionaria": "ECOPISTAS",
+                  "rodovia": "SP-070",
+                  "km": "114,000",
+                  "valor": 3.7,
+                  "distanciaOrigem": 117.42
+              },
+              {
+                  "praca": "Moreira César",
+                  "concessionaria": "NOVADUTRA*",
+                  "rodovia": "BR-116",
+                  "km": "88,000",
+                  "valor": 15.2,
+                  "distanciaOrigem": 163.12
+              },
+              {
+                  "praca": "Itatiaia",
+                  "concessionaria": "NOVADUTRA*",
+                  "rodovia": "BR-116",
+                  "km": "318,000",
+                  "valor": 15.2,
+                  "distanciaOrigem": 264.77
+              },
+              {
+                  "praca": "Viúva Graça",
+                  "concessionaria": "NOVADUTRA*",
+                  "rodovia": "BR-116",
+                  "km": "207,000",
+                  "valor": 15.2,
+                  "distanciaOrigem": 377.08
+              }
+          ],
+          "link": "http://rotasbrasil.com.br/?alternative=1&return=falsept0=-46.6333824%C-23.5506507&ptStop0=true&pt1=-43.16312809505%C-22.7631956&ptStop1=true&&veiculo=1&eixo=2&precoCombustivel=&consumo="
+      }
+  ]
+}

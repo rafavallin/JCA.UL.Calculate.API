@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+   <ItemGroup>
+    <ProjectReference Include="../JCA.UL.Calculate.Domain/JCA.UL.Calculate.Domain.csproj" />
+    <ProjectReference Include="../JCA.UL.Calculate.Repository/JCA.UL.Calculate.Repository.csproj" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="MathParser.org-mXparser" Version="4.4.1" />
+    <PackageReference Include="mongodb.driver" Version="2.10.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+  </ItemGroup>
+
+</Project>

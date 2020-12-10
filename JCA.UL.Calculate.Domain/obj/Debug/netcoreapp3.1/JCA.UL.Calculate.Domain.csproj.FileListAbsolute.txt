@@ -1,0 +1,9 @@
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Domain/obj/Debug/netcoreapp3.1/JCA.UL.Calculate.Domain.csprojAssemblyReference.cache
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Domain/obj/Debug/netcoreapp3.1/JCA.UL.Calculate.Domain.AssemblyInfoInputs.cache
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Domain/obj/Debug/netcoreapp3.1/JCA.UL.Calculate.Domain.AssemblyInfo.cs
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Domain/obj/Debug/netcoreapp3.1/JCA.UL.Calculate.Domain.csproj.CoreCompileInputs.cache
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Domain/bin/Debug/netcoreapp3.1/JCA.UL.Calculate.Domain.deps.json
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Domain/bin/Debug/netcoreapp3.1/JCA.UL.Calculate.Domain.dll
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Domain/bin/Debug/netcoreapp3.1/JCA.UL.Calculate.Domain.pdb
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Domain/obj/Debug/netcoreapp3.1/JCA.UL.Calculate.Domain.dll
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Domain/obj/Debug/netcoreapp3.1/JCA.UL.Calculate.Domain.pdb

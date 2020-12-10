@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Repository/JCA.UL.Calculate.Repository.csproj": {}
+  },
+  "projects": {
+    "/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Domain/JCA.UL.Calculate.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Domain/JCA.UL.Calculate.Domain.csproj",
+        "projectName": "JCA.UL.Calculate.Domain",
+        "projectPath": "/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Domain/JCA.UL.Calculate.Domain.csproj",
+        "packagesPath": "/Users/rvallin/.nuget/packages/",
+        "outputPath": "/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rvallin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MathParser.org-mXparser": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "mongodb.driver": {
+              "target": "Package",
+              "version": "[2.10.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Repository/JCA.UL.Calculate.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Repository/JCA.UL.Calculate.Repository.csproj",
+        "projectName": "JCA.UL.Calculate.Repository",
+        "projectPath": "/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Repository/JCA.UL.Calculate.Repository.csproj",
+        "packagesPath": "/Users/rvallin/.nuget/packages/",
+        "outputPath": "/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rvallin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Domain/JCA.UL.Calculate.Domain.csproj": {
+                "projectPath": "/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Domain/JCA.UL.Calculate.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Repository/obj/Debug/netcoreapp3.1/JCA.UL.Calculate.Repository.AssemblyInfoInputs.cache
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Repository/obj/Debug/netcoreapp3.1/JCA.UL.Calculate.Repository.AssemblyInfo.cs
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Repository/obj/Debug/netcoreapp3.1/JCA.UL.Calculate.Repository.csproj.CoreCompileInputs.cache
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Repository/obj/Debug/netcoreapp3.1/JCA.UL.Calculate.Repository.csprojAssemblyReference.cache
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Repository/bin/Debug/netcoreapp3.1/JCA.UL.Calculate.Repository.deps.json
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Repository/bin/Debug/netcoreapp3.1/JCA.UL.Calculate.Repository.dll
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Repository/bin/Debug/netcoreapp3.1/JCA.UL.Calculate.Repository.pdb
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Repository/bin/Debug/netcoreapp3.1/JCA.UL.Calculate.Domain.dll
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Repository/bin/Debug/netcoreapp3.1/JCA.UL.Calculate.Domain.pdb
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Repository/obj/Debug/netcoreapp3.1/JCA.UL.Calculate.Repository.csproj.CopyComplete
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Repository/obj/Debug/netcoreapp3.1/JCA.UL.Calculate.Repository.dll
+/Users/rvallin/Documents/GitHub/JCA.UL.Calculate.API/JCA.UL.Calculate.Repository/obj/Debug/netcoreapp3.1/JCA.UL.Calculate.Repository.pdb

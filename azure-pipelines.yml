@@ -1,0 +1,10 @@
+resources:
+  repositories:
+    - repository: templates
+      type: git
+      name: JCA_DEVOPS/jca-devops-templates.azure-pipeline
+
+extends:
+  template: pipeline_deploy.yaml@templates
+  parameters:
+    repoName: 'jca-ul-pricing-calculator-api' 
